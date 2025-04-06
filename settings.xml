@@ -1,0 +1,33 @@
+<settings>
+    <servers>
+        <server>
+            <id>nextwork-nextwork-devops-cicd</id>
+                <username>aws</username>
+            <password>eyJ2ZXIiOjEsImlzdSI6MTc0Mzg2NTM2MCwiZW5jIjoiQTEyOEdDTSIsInRhZyI6Imp2OTdKcWwtNUJnNXFEZ1pwWnhGVWciLCJleHAiOjE3NDM5MDg1NjAsImFsZyI6IkExMjhHQ01LVyIsIml2IjoiVEJyMkcyVkJwSUotQmJlRiJ9.qQNsoZ_Z6obG2bZy5_PgrA.HGyM0l8HOPDA5otv.Yw3a_c9GXKOqStsj74mJe6qvJETpywHye6oEMbvUTSTLLv-zXowaqU7AAi35U4EOsVCFkB6QC-CM73DBc2ZLyPoPGLBdhqGJbC7pNhZGvDIHM6jpF3xQ_PdFMRP35v64NSQ6Y83vPZ-ZfS0fH92wfMP18xoYWO1625V6LQBHOqInZqnqqL6eRKI62iDcjhdHF8cC8zTW8AMG1815eAgqDoQYJa_J_U1hiRljzXxTr6t9aByskSU-jHlARnpY7CO-E_PS-p_l_WpxSt0tF0mfq0ZFWfTO1wNeOwoGPRSLeXSRk5X-VJDHoDCcIXf3u53imagIe0Kqd-jpqoHVvF5w1fV8PzKyln9JRadSOv-dMKLzVWgPCCCu50EZuPX19GgitZKiEKmhc1PfUu0NrBg7ZVJHFqZHlK9cH7O-NaUxpP_EqdamuF4g360pYKnHegmw7gq6Ki5Yt7gjqeAlte4z8weGK8uDeF6s8PbZlF_UngepfxusvQFoBsNRU3LIuwav0jSHvRGszR6FLXubYzdcXewF2-tEVP_dbJFs-9P6E4FfFohOiRGY-Ovtd2drHTVJ9Ka8LoKsKePC9X2ZJI6jxY980ozoAC5160sZzkkcyBP7L9XFLCWdJpolRgguziFLpLudOOrl0pnyw3OmNeTnkINPFzyUtoktsRHKbzl3s9HNLq20RE1Us4IoocCdjXdu4ID7fvW2LMxaogOoVHzOYDQWZcqMZo9ZtI1ImyINOEUJWAqYXHwxnce8pNUO-w8UweY_y-brpUo0v6Zm78kgOhBZWVb8Y32unGbtS9WPzk0LN5Jg1_COuw7aHohthq-ArI0B7DffPJTHfSsGi3bfJ97-auQrBFKAURa7fNjZfO5vx96UMxBg2hMCsk_e0gzUyVNMM4XR4Y_7RJXAxgllGPuDh9Jv4tDNq6k9istoA_Thm9H0IVjyBl70eLW0DP-qPOzDAuqbUiGjRHx49qGwehBeaM4yoBVe-BN2WvAcfTg55uhE4zYpXC9M2ijhi0INwSvdkTFelRFjDWrvN4vXBu3KFD9M353DK9L3CBouXLq5eDuxp_yzX5KhMmAWijvU3stAcSY10kQnCTnqUEYSP8LlPQZgB6UdPPgbaybe8aDCm3RFQ71rS71K4JqBOoLdDf5e_3KoS3XyLATT-UZXUlxbf97sGx756UEFpYCJuTybfrsoURNWlK-SipMvgfXDZOi0UAeHrEtIuMtYUtBrOxdRSY6oP5F0nCthDQccxxthCnN-R44UNpapjZKJFme_BlbH8S89pALcGCCkA2tiH_qiB7l6z-gH9RRY0qmfr2XxLS7SvMhlvgM95LZ5fgozcu9DR-gdHct_AlYPg9r7zGlw1Zjf0FyzTLfutpcCEYi0GZ_J5ppk2U-hLKGXhTKJtbTTOgpAqXIbKwLCfvXzmtx5BNFTudOzqi38ivCVAvhb_BrO4pyBpty3iBgeoTsOMFRK_Yze6c3FEbolHtH4yL6SO6H2CQZtrPCPRtcTYiGAejFfcCMQh5_oxbUdPxdd3F301WbPk6S1CqlliN_-mSv4-mKVZ1HsjxE6tleK9-oessUjth7lzT5o3bElNacIKqs6-jqQtO78iKiHQERjcog_0CLAVG-mYRJMIi10axpP8PyCNTuDMA_oUFgLCCWPNyiTnXy12TojzxY6_2d5J6pJgnCAxapAAslzcRfm_8ZpBt9FuafJGCATw4Q2u3RkZOtZ0N22WQC4mvooV5NL430phPUnmB9Q3iJVL6axMY1nZ3h4_zGvEcz2Zqqd5M3qjbCY4zqaDTPSCFrfmsuJvSPeSVf3yPbifo2QMyVuQAmmqO2d0-3jocLHDlxTasVd5BFrnhb0D28dlaMsRcX_wD5HKCQyuTtBjKl_Mnu_iwYCRxjf9rCHQ5r3cKqMW9npIJBOSgw412tuvQ.6z0cPcWx5G3dAf1UCT8P9w</password>
+        </server>
+    </servers>
+
+    <profiles>
+        <profile>
+            <id>nextwork-nextwork-devops-cicd</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
+            <repositories>
+                <repository>
+                    <id>nextwork-nextwork-devops-cicd</id>
+                    <url>https://nextwork-053038338483.d.codeartifact.eu-central-1.amazonaws.com/maven/nextwork-devops-cicd/</url>
+                </repository>
+            </repositories>
+        </profile>
+    </profiles>
+
+    <mirrors>
+        <mirror>
+            <id>nextwork-nextwork-devops-cicd</id>
+                <name>nextwork-nextwork-devops-cicd</name>
+            <url>https://nextwork-053038338483.d.codeartifact.eu-central-1.amazonaws.com/maven/nextwork-devops-cicd/</url>
+            <mirrorOf>*</mirrorOf>
+        </mirror>
+    </mirrors>
+</settings>
