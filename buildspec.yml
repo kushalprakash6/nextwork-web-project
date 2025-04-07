@@ -1,11 +1,4 @@
 version: 0.2
-
-env:
-  variables:
-    MAVEN_OPTS: "-Dmaven.repo.local=/root/.m2/repository"
-  parameter-store:
-    # Store sensitive values in AWS Systems Manager Parameter Store
-    CODEARTIFACT_TOKEN: "/project/codeartifact/token"
     
 phases:
   install:
