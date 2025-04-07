@@ -3,7 +3,7 @@
         <server>
             <id>nextwork-nextwork-devops-cicd</id>
                 <username>aws</username>
-            <password>${env.CODEARTIFACT_TOKEN}</password>
+            <password>${codeartifact.token}</password>
         </server>
     </servers>
 
